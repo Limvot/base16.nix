@@ -3,11 +3,11 @@
     "fromYaml": {
       "flake": false,
       "locked": {
-        "lastModified": 1737944402,
-        "narHash": "sha256-s9lxeU/+jb9ltam44cOAp4p+GHxE7ul3tSDz/b2fWw4=",
+        "lastModified": 1737947037,
+        "narHash": "sha256-b+aAVrpgh4owFmvqDH/oJccIC1UxXQPtrHG7PMLKgvc=",
         "owner": "Limvot",
         "repo": "fromYaml",
-        "rev": "0a82d82dff54d09eeaf5a043a5e3f7b86d6648e4",
+        "rev": "4ede4c4e356a271f9e8c7f2e5349d9ab02b02bfd",
         "type": "github"
       },
       "original": {
