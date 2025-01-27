@@ -3,15 +3,15 @@
     "fromYaml": {
       "flake": false,
       "locked": {
-        "lastModified": 1731966426,
-        "narHash": "sha256-lq95WydhbUTWig/JpqiB7oViTcHFP8Lv41IGtayokA8=",
-        "owner": "SenchoPens",
+        "lastModified": 1737944402,
+        "narHash": "sha256-s9lxeU/+jb9ltam44cOAp4p+GHxE7ul3tSDz/b2fWw4=",
+        "owner": "Limvot",
         "repo": "fromYaml",
-        "rev": "106af9e2f715e2d828df706c386a685698f3223b",
+        "rev": "0a82d82dff54d09eeaf5a043a5e3f7b86d6648e4",
         "type": "github"
       },
       "original": {
-        "owner": "SenchoPens",
+        "owner": "Limvot",
         "repo": "fromYaml",
         "type": "github"
       }

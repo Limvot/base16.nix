@@ -3,7 +3,7 @@
 
   inputs = {
     fromYaml = {
-      url = "github:SenchoPens/fromYaml";
+      url = "github:Limvot/fromYaml";
       flake = false;
     };
   };
